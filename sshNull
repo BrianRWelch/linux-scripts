@@ -1,0 +1,3 @@
+
+
+ssh ${1} -o "UserKnownHostsFile /dev/null" -o "StrictHostKeyChecking no"
